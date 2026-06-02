@@ -6,6 +6,7 @@ A plataforma permite organizar oportunidades de trabalho em um **painel visual e
 
 A proposta é simples: ajudar desenvolvedores a **organizar seus leads, controlar valores de projetos e acompanhar o status de cada negociação em um único lugar.**
 
+
 ---
 
 # Problema que o projeto resolve
